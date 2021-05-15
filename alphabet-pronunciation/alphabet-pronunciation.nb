@@ -26,7 +26,7 @@ Cell[BoxData[{
    RowBox[{
     RowBox[{
     "Import", "[", 
-     "\"\<C:\\\\Users\\\\Fang Tci\\\\Desktop\\\\alphabet-pronunciation.xlsx\>\
+     "\"\<alphabet-pronunciation.xlsx\>\
 \"", "]"}], "\[LeftDoubleBracket]", "2", "\[RightDoubleBracket]"}]}], 
   ";"}], "\[IndentingNewLine]", 
  RowBox[{
@@ -709,9 +709,6 @@ WindowSize->{960., 478.5},
 WindowMargins->{{-4.875, Automatic}, {Automatic, -4.875}},
 FrontEndVersion->"12.2 for Microsoft Windows (64-bit) (2021\:5e742\:67085\
 \:65e5)",
-StyleDefinitions->FrontEnd`FileName[{$RootDirectory, "C:", "Users", 
-   "Fang Tci", "AppData", "Roaming", "Mathematica", "SystemFiles", "FrontEnd",
-    "StyleSheets"}, "myStyle1.nb", CharacterEncoding -> "UTF-8"],
 ExpressionUUID->"5d9e83dc-f1b4-4351-8708-021a3de7ebb2"
 ]
 (* End of Notebook Content *)
